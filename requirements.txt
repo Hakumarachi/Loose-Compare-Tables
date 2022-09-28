@@ -1,0 +1,5 @@
+argparse~=1.4.0
+PyMySQL~=1.0.2
+rich~=12.4.1
+psycopg2
+docker==6.0.0
